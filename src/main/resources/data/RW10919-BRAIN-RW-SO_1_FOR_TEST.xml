@@ -1,0 +1,89 @@
+<rodale-doc xmlns="" xml:lang="en">
+<system-meta>
+<system-status>AVAILABLE</system-status>
+<load-date>2011-06-30T09:37:23.000</load-date>
+<last-update>2011-06-30T09:37:23.000</last-update>
+<update-by>BRAIN</update-by>
+<system-id>RW10919-BRAIN-RW-SO_1_MA_0_MI_0</system-id>
+</system-meta>
+<content>
+<id type="BRAIN">RW10919</id>
+<brand>RW</brand>
+<content-type>Article</content-type>
+<title>Four Keys to Cross-Training for Runners</title>
+<page-title/>
+<web-title>Four Keys to Cross-Training for Runners</web-title>
+<status>None</status>
+<pre-title/>
+<authors>
+<author>
+<author-name>Ed Eyestone</author-name>
+<author-role>by</author-role>
+</author>
+</authors>
+<body>
+<b>1.</b> Choose workouts that are closest to running in terms of muscles used and aerobic systems taxed. Good options include elliptical trainers, cross-country ski machines, stationary bikes, and water running.
+ 
+ <b>2.</b> When cross-training, keep your heart rate at or above 70 percent of your maximum heart rate (220 minus your age) most of the time. In other words, you should be working hard and sweating a lot.
+ 
+ <b>3.</b> Check your morning heart rate regularly. An elevated morning heart rate is a sign of overtraining, which can occur if you add too much cross-training too soon.
+ 
+ <b>4.</b> Combine cross-training with running to maximize running fitness with lower actual mileage. You can substitute 25 to 30 percent of your weekly "mileage" with cross-training.
+</body>
+<dek>
+Must know tips to keep you in your best running shape
+</dek>
+<channels>
+<channel>
+<channel-name>Training</channel-name>
+</channel>
+</channels>
+<created-date>2007-04-11T16:01:53.000</created-date>
+<related-content/>
+<images>
+<image>
+<image-title/>
+<image-url>/images/cma/xtrain_swima100.jpg</image-url>
+<image-desc/>
+<image-credit/>
+</image>
+<image>
+<image-title/>
+<image-url>/images/cma/xtrain_swima200.jpg</image-url>
+<image-desc/>
+<image-credit/>
+</image>
+</images>
+<common-meta>
+<meta>
+<copyright/>
+<description/>
+<keywords>Workouts, training,</keywords>
+</meta>
+</common-meta>
+<print-edition-name/>
+<print-edition-text/>
+<print-edition-issue-year/>
+<print-edition-issue-month/>
+<meta-desc/>
+<meta-title/>
+<published-date/>
+<long-title/>
+<long-dek/>
+<partner-id/>
+<partner-name/>
+<version-id>1.0.0</version-id>
+<version-type>SOURCE</version-type>
+<version-name/>
+<syndication-status/>
+<last-syndication-date/>
+<approved-date/>
+<content-body/>
+<syndicated-by/>
+<syndication-date/>
+<editor-notes/>
+<editable/>
+<edited-on>2011-06-30T09:37:23.000</edited-on>
+<edited-by>BRAIN</edited-by>
+</content>
+</rodale-doc>
