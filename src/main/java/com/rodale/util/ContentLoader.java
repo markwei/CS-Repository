@@ -14,7 +14,7 @@ public class ContentLoader {
 	
 	public static void main(String[] args) throws IOException {
 
-		System.out.println("Entering "+ContentLoader.class.getName());
+		System.out.println("##### Entering "+ContentLoader.class.getName());
 
 		// create the client
 		DatabaseClient client = DatabaseClientFactory.newClient(Config.host, Config.port, Config.user, Config.password, Config.authType);
